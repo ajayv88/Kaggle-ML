@@ -1,7 +1,3 @@
-# Ignore warnings
-import warnings
-warnings.filterwarnings('ignore')
-
 # Handle table-like data and matrices
 import numpy as np
 import pandas as pd
